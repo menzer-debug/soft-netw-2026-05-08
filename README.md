@@ -4,3 +4,4 @@ playground for SN lecture
 it includes the following home pages:
 
 - Mutaz Home Page
+- Manzar homepage 
